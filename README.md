@@ -1,5 +1,5 @@
 
-# FXNotes – JavaFX Notes App (Learning Template)
+# FXNotes – JavaFX Notes App
 
 Template JavaFX application using a simplified archithektur: model, data and ui
 
