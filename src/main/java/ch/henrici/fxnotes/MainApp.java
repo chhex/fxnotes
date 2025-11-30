@@ -22,7 +22,7 @@ public class MainApp extends Application {
 
    @Override
 public void start(Stage stage) {
-    boolean USE_MOCK = true;
+    boolean USE_MOCK = false;
     boolean SAVE_ON_EXIT = true; // <– Strategie-Wahl
 
     SaveStrategy strategy = SAVE_ON_EXIT

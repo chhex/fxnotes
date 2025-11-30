@@ -1,7 +1,7 @@
 
-# FXNotes – JavaFX Notes App (Learning Template)
+# FXNotes – JavaFX Notes App Template
 
-Template JavaFX application using a Model, Controller, Service, Repository pattern + Strategy layering.
+Template JavaFX application using a Model, Controller, Service, Repository pattern + Strategy layering and no additional dependencies except for JavaFx
 
 ## Features
 
