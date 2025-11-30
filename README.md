@@ -1,16 +1,15 @@
 
 # FXNotes – JavaFX Notes App (Learning Template)
 
-Template JavaFX application using a Model, Controller, Service, Repository pattern + Strategy for persistence timing.
+Template JavaFX application using a Model, Controller, Service, Repository pattern + Strategy layering.
 
 ## Features
 
 - Java 17
 - JavaFX 21
-- No FXML, pure Java UI
-- Clean architecture:
+- Architecture:
   - model
-  - data (repositories + strategies)
+  - repository (Interfaces, Implementation + persistent strategies)
   - services
   - ui
 - CSV persistence or InMemory repository
