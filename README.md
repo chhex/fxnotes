@@ -1,4 +1,4 @@
-
+[![Java CI with Maven](https://github.com/chhex/fxnotes/actions/workflows/maven.yml/badge.svg)](https://github.com/chhex/fxnotes/actions/workflows/maven.yml)
 # FXNotes – JavaFX Notes App Template
 
 Template JavaFX application using a Model, Controller, Service, Repository pattern + Strategy layering and no additional dependencies except for JavaFx
